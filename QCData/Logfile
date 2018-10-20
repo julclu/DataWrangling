@@ -1,0 +1,13 @@
+/home/sf673542/scripts_preop/batch_firsta_valid.dev.py --csv_name rec_hgg_perf_qc_list1.10.csv --output_dir /home/sf673542/DataWrangling/QCData/ --output_file rec_hgg_list1_qc_out.csv --cohort_name RECglioma
+/home/sf673542/scripts_preop/batch_firsta_valid.dev.py --csv_name rec_hgg_perf_qc_list1.10.csv --output_dir /home/sf673542/DataWrangling/QCData/ --output_file rec_hgg_list1_qc_out.csv --cohort_name RECglioma
+/home/sf673542/scripts_preop/batch_firsta_valid.dev.py --csv_name rec_hgg_perf_qc_list1.10.csv --output_dir /home/sf673542/DataWrangling/QCData/ --output_file rec_hgg_list1_qc_out.csv --cohort_name RECglioma
+/home/sf673542/scripts_preop/batch_firsta_valid.dev.py --csv_name rec_hgg_perf_qc_list2.10.csv --output_dir /home/sf673542/DataWrangling/QCData/ --output_file rec_hgg_list2_qc_out.csv --cohort_name RECglioma
+/home/sf673542/scripts_preop/batch_firsta_valid.dev.py --csv_name rec_hgg_perf_qc_list3.10.csv --output_dir /home/sf673542/DataWrangling/QCData/ --output_file rec_hgg_list3_qc_out.csv --cohort_name RECglioma
+/home/sf673542/scripts_preop/batch_firsta_valid.dev.py --csv_name rec_hgg_perf_qc_list4.10.csv --output_dir /home/sf673542/DataWrangling/QCData/ --output_file rec_hgg_list4_qc_out.csv --cohort_name RECglioma
+/home/sf673542/scripts_preop/batch_firsta_valid.dev.py --csv_name rec_hgg_perf_qc_list4.10.csv --output_dir /home/sf673542/DataWrangling/QCData/ --output_file rec_hgg_list4_qc_out.csv --cohort_name RECglioma
+/home/sf673542/scripts_preop/batch_firsta_valid.dev.py --csv_name rec_hgg_perf_qc_list4.10.csv --output_dir /home/sf673542/DataWrangling/QCData/ --output_file rec_hgg_list4_qc_out.csv --cohort_name RECglioma
+/home/sf673542/scripts_preop/batch_firsta_valid.dev.py --csv_name rec_hgg_perf_qc_list4.10.csv --output_dir /home/sf673542/DataWrangling/QCData/ --output_file rec_hgg_list4_qc_out.csv --cohort_name RECglioma
+/home/sf673542/scripts_preop/batch_firsta_valid.dev.py --csv_name rec_hgg_perf_qc_list4.10.csv --output_dir /home/sf673542/DataWrangling/QCData/ --output_file rec_hgg_list4_qc_out.csv --cohort_name RECglioma
+/home/sf673542/scripts_preop/batch_firsta_valid.dev.py --csv_name rec_hgg_perf_qc_list5.10.csv --output_dir /home/sf673542/DataWrangling/QCData/ --output_file rec_hgg_list5_qc_out.csv --cohort_name RECglioma
+/home/sf673542/scripts_preop/batch_firsta_valid.dev.py --csv_name rec_hgg_perf_qc_list6.10.csv --output_dir /home/sf673542/DataWrangling/QCData/ --output_file rec_hgg_list6_qc_out.csv --cohort_name RECglioma
+/home/sf673542/scripts_preop/batch_firsta_valid.dev.py --csv_name rec_hgg_perf_qc_list7.10.csv --output_dir /home/sf673542/DataWrangling/QCData/ --output_file rec_hgg_list7_qc_out.csv --cohort_name RECglioma
